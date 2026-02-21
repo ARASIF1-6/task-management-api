@@ -23,6 +23,8 @@ A **RESTful Task Management API** built with **NestJS**, **TypeORM**, and **Post
 ---
 
 ## 🏗️ Project Structure
+
+```bash
 src/
 ├── auth/
 │ ├── auth.module.ts
@@ -41,6 +43,8 @@ src/
 │ └── user.entity.ts
 ├── app.module.ts
 └── main.ts
+
+```
 
 
 ---

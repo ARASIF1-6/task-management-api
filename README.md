@@ -1,9 +1,5 @@
 # 📝 Task Management API
 
-[![NestJS](https://img.shields.io/badge/NestJS-v10.2.0-red)](https://nestjs.com/)  
-[![Node.js](https://img.shields.io/badge/Node.js-v20.6.0-green)](https://nodejs.org/)  
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-v15-blue)](https://www.postgresql.org/)  
-
 A **RESTful Task Management API** built with **NestJS**, **TypeORM**, and **PostgreSQL**, featuring:
 
 - JWT authentication & password hashing  
